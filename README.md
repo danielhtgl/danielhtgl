@@ -55,7 +55,10 @@ Building Courtship has pushed me to develop practical experience across product 
 I've completed the following courses on [Boot.dev](https://www.boot.dev/):
 
 - ✅ **Learn to Code in Python**
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/600aed23-8c3b-4ca6-a828-5691b25d656f.jpeg?v=1784696082)](https://www.boot.dev/certificates/600aed23-8c3b-4ca6-a828-5691b25d656f)
+  
 - ✅ **Learn Linux**
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c72b1079-cdb2-4b2b-bfe9-049733bbf295.jpeg?v=1784751788)](https://www.boot.dev/certificates/c72b1079-cdb2-4b2b-bfe9-049733bbf295)
 
 I'm continuing to strengthen my foundations in computer science, backend development, Git, and software engineering.
 
