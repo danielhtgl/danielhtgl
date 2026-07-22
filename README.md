@@ -2,7 +2,7 @@
 
 # Hi, I'm Daniel 👋
 
-### MBA Student at UC Berkeley · Product Builder · Aspiring Software Engineer
+### MBA Student at UC Berkeley · Product Builder · Aspiring Software Entrepreneur
 
 I build consumer technology products at the intersection of  
 **business, human behavior, and software.**
