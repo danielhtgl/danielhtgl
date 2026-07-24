@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel Humala👋
 
 ### MBA Student at UC Berkeley · Product Builder · Aspiring Software Entrepreneur
 
@@ -59,6 +59,9 @@ I've completed the following courses on [Boot.dev](https://www.boot.dev/):
   
 - ✅ **Learn Linux**
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c72b1079-cdb2-4b2b-bfe9-049733bbf295.jpeg?v=1784751788)](https://www.boot.dev/certificates/c72b1079-cdb2-4b2b-bfe9-049733bbf295)
+
+- ✅ **Learn Git**
+[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/dd0efe9c-5dc7-4297-9822-fb2aad023fe0.jpeg?v=1784926306)](https://www.boot.dev/certificates/dd0efe9c-5dc7-4297-9822-fb2aad023fe0)
 
 I'm continuing to strengthen my foundations in computer science, backend development, Git, and software engineering.
 
